@@ -20,6 +20,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Code\main.cpp" />
+    <ClCompile Include="Code\PrecompiledHeader\pch.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Code\PrecompiledHeader\pch.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
