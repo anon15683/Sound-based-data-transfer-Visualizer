@@ -17,8 +17,8 @@
                 "bFile": "Unterwasserdrohne/VisualizerMain/FolderStructure/Root/Code/Code.md",
                 "aRef": ""
               },
-              "icon": "diff",
-              "title": "Diff: Code"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -151,8 +151,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -169,9 +169,7 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
   "floating": {
@@ -195,8 +193,19 @@
                   "icon": "lucide-git-fork",
                   "title": "Graph view"
                 }
+              },
+              {
+                "id": "fd02febe752c4865",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -209,7 +218,7 @@
       }
     ]
   },
-  "active": "d748dc92f9c0cf68",
+  "active": "fd02febe752c4865",
   "lastOpenFiles": [
     "VisualizerMain/VisualizerMain.md",
     "Unterwasserdrohne.md",
