@@ -1,0 +1,27 @@
+.check-and-delete-task-button {
+    border: 1px solid var(--color-base-50);
+    border-radius: 50%;
+    height: var(--font-text-size);
+    width: var(--font-text-size);
+    position: relative;
+    display: inline-flex;
+    top: 0.07em;
+    margin-inline-start: calc(var(--font-text-size) / 2);
+    z-index: 1;
+}
+
+.check-and-delete-task-button:hover {
+    background-color: var(--color-base-30);
+    cursor: pointer;
+}
+
+.markdown-rendered .check-and-delete-task-button {
+    float: inline-start;
+    margin-inline-start: -1.3em;
+    top: 0.27em;
+}
+
+.check-and-delete-path {
+    stroke: #FF3333;
+    stroke-width: 10px;
+}

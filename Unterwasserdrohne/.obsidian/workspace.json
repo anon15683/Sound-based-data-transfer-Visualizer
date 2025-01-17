@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VisualizerMain/FolderStructure/Root/Code/Libraries/Graphics/_Index_of_Graphics.md",
+                "file": "VisualizerMain/FolderStructure/Root/Code/_Index_of_Code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Index_of_Graphics"
+              "title": "_Index_of_Code"
             }
           }
         ],
@@ -294,7 +294,7 @@
       }
     ]
   },
-  "active": "aa8303afa2bd0c3f",
+  "active": "010ff60a54f07392",
   "lastOpenFiles": [
     "VisualizerMain/FolderStructure/Root/Code/Libraries/Graphics/_Index_of_Graphics.md",
     "VisualizerMain/FolderStructure/Root/Code/Libraries/Communication/_Index_of_Communication.md",
