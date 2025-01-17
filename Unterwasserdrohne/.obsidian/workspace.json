@@ -11,14 +11,15 @@
             "id": "d748dc92f9c0cf68",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Unterwasserdrohne/VisualizerMain/FolderStructure/Root/Code/Code.md",
-                "bFile": "Unterwasserdrohne/VisualizerMain/FolderStructure/Root/Code/Code.md",
-                "aRef": ""
+                "file": "VisualizerMain/VisualizerMain.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Code"
+              "icon": "lucide-file",
+              "title": "VisualizerMain"
             }
           }
         ]
