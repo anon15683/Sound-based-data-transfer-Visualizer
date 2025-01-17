@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FolderStructure/Root/Root.md",
+                "file": "FolderStructure/Root/Code/Libraries/Libraries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Root"
+              "title": "Libraries"
             }
           }
         ],
@@ -310,6 +310,9 @@
   },
   "active": "aa8303afa2bd0c3f",
   "lastOpenFiles": [
+    "FolderStructure/Root/Code/Code.md",
+    "FolderStructure/Root/Root.md",
+    "FolderStructure/Root/Documentation/Documentation.md",
     "FolderStructure/FolderStructure.md",
     "FolderStructure/Root/Code/Visualizer/Code/PrecompiledHeader/PrecompiledHeader.md",
     "FolderStructure/Root/Code/Visualizer/Code/Code.md",
@@ -329,12 +332,10 @@
     "FolderStructure/Root/Code/Libraries/Communication/Serial/Serial.md",
     "FolderStructure/Root/Code/Libraries/Graphics",
     "FolderStructure/Root/Code/Libraries/Communication/Communication.md",
-    "FolderStructure/Root/Root.md",
     "FolderStructure/Root/Code/Libraries/Communication/Serial",
     "FolderStructure/Root/Code/Libraries/Communication",
     "FolderStructure/Root/Assets/Assets.md",
     "VisualizerMainFile.md",
-    "FolderStructure/Root/Code/Code.md",
     "FolderStructure/Root/Code/LibraryTester/LibraryTester.md",
     "ClassStructure/ClassStructure.md",
     "FolderStructure/Root/Code/Main.md",
@@ -342,7 +343,6 @@
     "FolderStructure/Root/Code/Libraries/Libraries.md",
     "Untitled.canvas",
     "Root/Documentation.md",
-    "FolderStructure/Root/Documentation/Documentation.md",
     "FolderStructure/Root/Build/Build.md",
     "Visualizer.md",
     "Welcome.md",
