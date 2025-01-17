@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FolderStructure/Root/Code/Visualizer/Visualizer.md",
+                "file": "FolderStructure/FolderStructure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Visualizer"
+              "title": "FolderStructure"
             }
           }
         ],
@@ -273,43 +273,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "87bda901adb02353",
-    "type": "floating",
-    "children": [
-      {
-        "id": "0fe78967d45bf0fe",
-        "type": "window",
-        "children": [
-          {
-            "id": "e7c87810dbf3db8e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "942afe2c917b429c",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 942,
-        "y": 13,
-        "width": 796,
-        "height": 2472,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "aa8303afa2bd0c3f",
   "lastOpenFiles": [
+    "FolderStructure/Root/Code/Visualizer/Visualizer.md",
     "FolderStructure/Root/Code/Visualizer/Code/Code.md",
     "FolderStructure/Root/Code/LibraryTester/LibraryTester.md",
     "FolderStructure/Root/Code/Libraries/Sound/Sound.md",
@@ -340,7 +306,6 @@
     "VisualizerMainFile.md",
     "ClassStructure/ClassStructure.md",
     "FolderStructure/Root/Code/Main.md",
-    "FolderStructure/Root/Code/Visualizer/Visualizer.md",
     "Untitled.canvas",
     "Root/Documentation.md",
     "FolderStructure/Root/Build/Build.md",
