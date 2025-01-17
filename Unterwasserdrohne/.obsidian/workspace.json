@@ -11,10 +11,15 @@
             "id": "88e25be382b4fbe8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -170,8 +175,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38fe85005d335237",
+  "active": "88e25be382b4fbe8",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "VisualizerMain/VisualizerMain.md",
     "Unterwasserdrohne.md",
     "VisualizerMain/ClassStructure/_Index_of_ClassStructure.md",
@@ -197,7 +203,6 @@
     "VisualizerMain/FolderStructure/Root/_Index_of_Root.md",
     "VisualizerMain/FolderStructure/_Index_of_FolderStructure.md",
     "VisualizerMain/FolderStructure/Root/Code/Visualizer/Code/PrecompiledHeader/PrecompiledHeader.md",
-    "VisualizerMain/FolderStructure/Root/Code/LibraryTester/PrecompiledHeader/PrecompiledHeader.md",
     "script.ps1",
     "VisualizerMain/script.ps1",
     "VisualizerMain/Unconfirmed 112157.crdownload",
