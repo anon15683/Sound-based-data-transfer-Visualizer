@@ -8,24 +8,31 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:FolderStructure/Root/Code  ",
+      "query": "path:VisualizerMain/FolderStructure/Root/Code  ",
       "color": {
         "a": 1,
         "rgb": 37375
       }
     },
     {
-      "query": "path:FolderStructure/Root/Build  ",
+      "query": "path:VisualizerMain/FolderStructure/Root/Build  ",
       "color": {
         "a": 1,
         "rgb": 11665172
       }
     },
     {
-      "query": "path:FolderStructure/Root/Documentation  ",
+      "query": "path:VisualizerMain/FolderStructure/Root/Documentation  ",
       "color": {
         "a": 1,
         "rgb": 16377892
+      }
+    },
+    {
+      "query": "path:VisualizerMain/FolderStructure/Root/Assets  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
       }
     },
     {
@@ -67,6 +74,6 @@
   "repelStrength": 11.4968814968815,
   "linkStrength": 1,
   "linkDistance": 116,
-  "scale": 0.7132754626224506,
+  "scale": 0.5087618855792649,
   "close": false
 }
