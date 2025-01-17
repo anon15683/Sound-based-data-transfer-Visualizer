@@ -17,8 +17,8 @@
                 "bFile": "Unterwasserdrohne/VisualizerMain/FolderStructure/Root/Code/Code.md",
                 "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "diff",
+              "title": "Diff: Code"
             }
           }
         ]
@@ -151,8 +151,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -164,6 +164,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -172,53 +174,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "87bda901adb02353",
-    "type": "floating",
-    "children": [
-      {
-        "id": "eb585e9d6e604a4a",
-        "type": "window",
-        "children": [
-          {
-            "id": "47ce4abf94a84e67",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "aa8303afa2bd0c3f",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              },
-              {
-                "id": "fd02febe752c4865",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 971,
-        "y": 13,
-        "width": 795,
-        "height": 2472,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "fd02febe752c4865",
+  "active": "d748dc92f9c0cf68",
   "lastOpenFiles": [
     "VisualizerMain/VisualizerMain.md",
     "Unterwasserdrohne.md",

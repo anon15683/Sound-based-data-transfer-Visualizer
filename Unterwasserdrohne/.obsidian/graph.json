@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:VisualizerMain/FolderStructure/Root/Code  ",
@@ -75,5 +75,5 @@
   "linkStrength": 1,
   "linkDistance": 116,
   "scale": 0.47888820525452014,
-  "close": false
+  "close": true
 }
