@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unterwasserdrohne.md",
+                "file": "VisualizerMain/VisualizerMain.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unterwasserdrohne"
+              "title": "VisualizerMain"
             }
           }
         ]
@@ -212,11 +212,12 @@
   },
   "active": "d748dc92f9c0cf68",
   "lastOpenFiles": [
-    "Unterwasserdrohne.md",
     "VisualizerMain/VisualizerMain.md",
+    "VisualizerMain/FolderStructure/Root/Code/Code.md",
+    "VisualizerMain/FolderStructure/FolderStructure.md",
+    "Unterwasserdrohne.md",
     "VisualizerMain/FolderStructure/Root/Documentation/Documentation.md",
     "VisualizerMain/FolderStructure/Root/Root.md",
-    "VisualizerMain/FolderStructure/FolderStructure.md",
     "VisualizerMain/FolderStructure/Root/Code/Libraries/Graphics/GUI/GUI.md",
     "VisualizerMain/FolderStructure/Root/Code/Libraries/Graphics/GUI",
     "VisualizerMain/ClassStructure/ClassStructure.md",
@@ -238,7 +239,6 @@
     "VisualizerMain/FolderStructure/Root/Code/Libraries/Sound/_Index_of_Sound.md",
     "VisualizerMain/FolderStructure/Root/Code/Libraries/_Index_of_Libraries.md",
     "VisualizerMain/FolderStructure/Root/Code/LibraryTester/_Index_of_LibraryTester.md",
-    "VisualizerMain/FolderStructure/Root/Code/Visualizer/_Index_of_Visualizer.md",
     "script.ps1",
     "VisualizerMain/script.ps1",
     "VisualizerMain/Unconfirmed 112157.crdownload",

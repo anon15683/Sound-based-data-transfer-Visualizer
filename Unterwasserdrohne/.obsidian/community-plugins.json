@@ -9,5 +9,7 @@
   "folder-note-plugin",
   "folder-note-core",
   "check-and-delete",
-  "zoottelkeeper-obsidian-plugin"
+  "zoottelkeeper-obsidian-plugin",
+  "dataview",
+  "url-into-selection"
 ]
