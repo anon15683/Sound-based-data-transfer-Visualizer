@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bb86d4f60618b3de",
+        "id": "969502b9b2aa431a",
         "type": "tabs",
         "children": [
           {
-            "id": "1235c5330a8be068",
+            "id": "6efe8d4a4ea0bbcd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 412.5
   },
   "right": {
     "id": "4a1e3fcc4cd05063",
@@ -160,19 +160,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "github-sync:Sync with Remote": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38fe85005d335237",
+  "floating": {
+    "id": "87bda901adb02353",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2f0e13f8f4038b24",
+        "type": "window",
+        "children": [
+          {
+            "id": "7c0f8390ac2548e2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d748dc92f9c0cf68",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 476,
+        "y": 23,
+        "width": 795,
+        "height": 2472,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "6efe8d4a4ea0bbcd",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "VisualizerMain/VisualizerMain.md",
     "Unterwasserdrohne.md",
     "VisualizerMain/ClassStructure/_Index_of_ClassStructure.md",
@@ -198,6 +232,7 @@
     "VisualizerMain/FolderStructure/Root/_Index_of_Root.md",
     "VisualizerMain/FolderStructure/_Index_of_FolderStructure.md",
     "VisualizerMain/FolderStructure/Root/Code/Visualizer/Code/PrecompiledHeader/PrecompiledHeader.md",
+    "VisualizerMain/FolderStructure/Root/Code/LibraryTester/PrecompiledHeader/PrecompiledHeader.md",
     "script.ps1",
     "VisualizerMain/script.ps1",
     "VisualizerMain/Unconfirmed 112157.crdownload",
