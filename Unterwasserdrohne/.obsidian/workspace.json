@@ -11,10 +11,15 @@
             "id": "6efe8d4a4ea0bbcd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Unterwasserdrohne.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Unterwasserdrohne"
             }
           }
         ]
@@ -200,15 +205,22 @@
         "y": 23,
         "width": 795,
         "height": 2472,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "6efe8d4a4ea0bbcd",
+  "active": "d748dc92f9c0cf68",
   "lastOpenFiles": [
-    "VisualizerMain/VisualizerMain.md",
     "Unterwasserdrohne.md",
+    "VisualizerMain/VisualizerMain.md",
+    "VisualizerMain/FolderStructure/Root/Documentation/Documentation.md",
+    "VisualizerMain/FolderStructure/Root/Root.md",
+    "VisualizerMain/FolderStructure/FolderStructure.md",
+    "VisualizerMain/FolderStructure/Root/Code/Libraries/Graphics/GUI/GUI.md",
+    "VisualizerMain/FolderStructure/Root/Code/Libraries/Graphics/GUI",
+    "VisualizerMain/ClassStructure/ClassStructure.md",
+    "VisualizerMain/FolderStructure/Root/Code/Visualizer/Code/PrecompiledHeader/PrecompiledHeader.md",
     "VisualizerMain/ClassStructure/_Index_of_ClassStructure.md",
     "VisualizerMain/FolderStructure/Root/Assets/_Index_of_Assets.md",
     "VisualizerMain/FolderStructure/Root/Build/_Index_of_Build.md",
@@ -227,12 +239,6 @@
     "VisualizerMain/FolderStructure/Root/Code/Libraries/_Index_of_Libraries.md",
     "VisualizerMain/FolderStructure/Root/Code/LibraryTester/_Index_of_LibraryTester.md",
     "VisualizerMain/FolderStructure/Root/Code/Visualizer/_Index_of_Visualizer.md",
-    "VisualizerMain/FolderStructure/Root/Code/Visualizer/Code/_Index_of_Code.md",
-    "VisualizerMain/FolderStructure/Root/Code/_Index_of_Code.md",
-    "VisualizerMain/FolderStructure/Root/_Index_of_Root.md",
-    "VisualizerMain/FolderStructure/_Index_of_FolderStructure.md",
-    "VisualizerMain/FolderStructure/Root/Code/Visualizer/Code/PrecompiledHeader/PrecompiledHeader.md",
-    "VisualizerMain/FolderStructure/Root/Code/LibraryTester/PrecompiledHeader/PrecompiledHeader.md",
     "script.ps1",
     "VisualizerMain/script.ps1",
     "VisualizerMain/Unconfirmed 112157.crdownload",
@@ -242,7 +248,6 @@
     "VisualizerMain/FolderStructure/Root/Code/LibraryTester/PrecompiledHeader",
     "VisualizerMain/FolderStructure/Root/Code/Libraries/Sound/FFT",
     "VisualizerMain/FolderStructure/Root/Code/Libraries/Sound",
-    "VisualizerMain/FolderStructure/Root/Code/Libraries/Lib",
     "Untitled.canvas"
   ]
 }
