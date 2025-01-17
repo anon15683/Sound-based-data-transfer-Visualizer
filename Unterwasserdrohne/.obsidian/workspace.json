@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FolderStructure/Root/Code/Libraries/Include/Include.md",
+                "file": "FolderStructure/Root/Code/Visualizer/Visualizer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Include"
+              "title": "Visualizer"
             }
           }
         ],
@@ -310,14 +310,17 @@
   },
   "active": "aa8303afa2bd0c3f",
   "lastOpenFiles": [
+    "FolderStructure/Root/Code/Visualizer/Code/Code.md",
+    "FolderStructure/Root/Code/LibraryTester/LibraryTester.md",
     "FolderStructure/Root/Code/Libraries/Sound/Sound.md",
+    "FolderStructure/Root/Code/Libraries/Communication/Communication.md",
+    "FolderStructure/Root/Code/Libraries/Include/Include.md",
     "FolderStructure/Root/Code/Libraries/Libraries.md",
     "FolderStructure/Root/Code/Code.md",
     "FolderStructure/Root/Root.md",
     "FolderStructure/Root/Documentation/Documentation.md",
     "FolderStructure/FolderStructure.md",
     "FolderStructure/Root/Code/Visualizer/Code/PrecompiledHeader/PrecompiledHeader.md",
-    "FolderStructure/Root/Code/Visualizer/Code/Code.md",
     "FolderStructure/Root/Code/Visualizer/Code/PrecompiledHeader",
     "FolderStructure/Root/Code/LibraryTester/PrecompiledHeader/PrecompiledHeader.md",
     "FolderStructure/Root/Code/Visualizer/Code",
@@ -325,19 +328,16 @@
     "FolderStructure/Root/Code/LibraryTester/PrecompiledHeader",
     "FolderStructure/Root/Code/Libraries/Sound/FFT",
     "FolderStructure/Root/Code/Libraries/Lib/Lib.md",
-    "FolderStructure/Root/Code/Libraries/Include/Include.md",
     "FolderStructure/Root/Code/Libraries/Graphics/Graphics.md",
     "FolderStructure/Root/Code/Libraries/Sound",
     "FolderStructure/Root/Code/Libraries/Lib",
     "FolderStructure/Root/Code/Libraries/Include",
     "FolderStructure/Root/Code/Libraries/Communication/Serial/Serial.md",
     "FolderStructure/Root/Code/Libraries/Graphics",
-    "FolderStructure/Root/Code/Libraries/Communication/Communication.md",
     "FolderStructure/Root/Code/Libraries/Communication/Serial",
     "FolderStructure/Root/Code/Libraries/Communication",
     "FolderStructure/Root/Assets/Assets.md",
     "VisualizerMainFile.md",
-    "FolderStructure/Root/Code/LibraryTester/LibraryTester.md",
     "ClassStructure/ClassStructure.md",
     "FolderStructure/Root/Code/Main.md",
     "FolderStructure/Root/Code/Visualizer/Visualizer.md",
