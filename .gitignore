@@ -402,4 +402,4 @@ FodyWeavers.xsd
 
 # Custom ignores
 *.exe
-build/
+[Bb]uild/
