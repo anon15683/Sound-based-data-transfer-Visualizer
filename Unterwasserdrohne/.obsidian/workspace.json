@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Visualizer main file.md",
+                "file": "VisualizerMainFile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Visualizer main file"
+              "title": "VisualizerMainFile"
             }
           },
           {
@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FolderStructure/Root/Code/Code.md",
+                "file": "VisualizerMainFile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Code"
+              "title": "VisualizerMainFile"
             }
           }
         ],
@@ -294,13 +294,14 @@
       }
     ]
   },
-  "active": "010ff60a54f07392",
+  "active": "a09d8eae85d36aac",
   "lastOpenFiles": [
+    "FolderStructure/Assets",
+    "FolderStructure/Root/Code/Code.md",
     "FolderStructure/Root/Code/LibraryTester/LibraryTester.md",
     "ClassStructure/ClassStructure.md",
-    "Visualizer main file.md",
+    "VisualizerMainFile.md",
     "FolderStructure/FolderStructure.md",
-    "FolderStructure/Root/Code/Code.md",
     "FolderStructure/Root/Code/LibraryTester",
     "FolderStructure/Root/Code/Main.md",
     "FolderStructure/Root/Code/Visualizer/Visualizer.md",
