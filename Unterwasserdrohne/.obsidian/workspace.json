@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FolderStructure/Root/Code/Visualizer/Code/PrecompiledHeader/PrecompiledHeader.md",
+                "file": "FolderStructure/Root/Root.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PrecompiledHeader"
+              "title": "Root"
             }
           }
         ],
@@ -310,8 +310,9 @@
   },
   "active": "aa8303afa2bd0c3f",
   "lastOpenFiles": [
-    "FolderStructure/Root/Code/Visualizer/Code/Code.md",
+    "FolderStructure/FolderStructure.md",
     "FolderStructure/Root/Code/Visualizer/Code/PrecompiledHeader/PrecompiledHeader.md",
+    "FolderStructure/Root/Code/Visualizer/Code/Code.md",
     "FolderStructure/Root/Code/Visualizer/Code/PrecompiledHeader",
     "FolderStructure/Root/Code/LibraryTester/PrecompiledHeader/PrecompiledHeader.md",
     "FolderStructure/Root/Code/Visualizer/Code",
@@ -336,7 +337,6 @@
     "FolderStructure/Root/Code/Code.md",
     "FolderStructure/Root/Code/LibraryTester/LibraryTester.md",
     "ClassStructure/ClassStructure.md",
-    "FolderStructure/FolderStructure.md",
     "FolderStructure/Root/Code/Main.md",
     "FolderStructure/Root/Code/Visualizer/Visualizer.md",
     "FolderStructure/Root/Code/Libraries/Libraries.md",
