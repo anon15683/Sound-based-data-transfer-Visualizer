@@ -111,7 +111,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FolderStructure/Root/Code/LibraryTester/PrecompiledHeader/PrecompiledHeader.md",
+                "file": "FolderStructure/Root/Code/Visualizer/Code/PrecompiledHeader/PrecompiledHeader.md",
                 "mode": "source",
                 "source": false
               },
@@ -308,10 +308,14 @@
       }
     ]
   },
-  "active": "a09d8eae85d36aac",
+  "active": "aa8303afa2bd0c3f",
   "lastOpenFiles": [
-    "FolderStructure/Root/Code/Libraries/Sound/FFT/FFT.md",
+    "FolderStructure/Root/Code/Visualizer/Code/Code.md",
+    "FolderStructure/Root/Code/Visualizer/Code/PrecompiledHeader/PrecompiledHeader.md",
+    "FolderStructure/Root/Code/Visualizer/Code/PrecompiledHeader",
     "FolderStructure/Root/Code/LibraryTester/PrecompiledHeader/PrecompiledHeader.md",
+    "FolderStructure/Root/Code/Visualizer/Code",
+    "FolderStructure/Root/Code/Libraries/Sound/FFT/FFT.md",
     "FolderStructure/Root/Code/LibraryTester/PrecompiledHeader",
     "FolderStructure/Root/Code/Libraries/Sound/Sound.md",
     "FolderStructure/Root/Code/Libraries/Sound/FFT",
@@ -329,12 +333,10 @@
     "FolderStructure/Root/Code/Libraries/Communication",
     "FolderStructure/Root/Assets/Assets.md",
     "VisualizerMainFile.md",
-    "FolderStructure/Root/Assets",
     "FolderStructure/Root/Code/Code.md",
     "FolderStructure/Root/Code/LibraryTester/LibraryTester.md",
     "ClassStructure/ClassStructure.md",
     "FolderStructure/FolderStructure.md",
-    "FolderStructure/Root/Code/LibraryTester",
     "FolderStructure/Root/Code/Main.md",
     "FolderStructure/Root/Code/Visualizer/Visualizer.md",
     "FolderStructure/Root/Code/Libraries/Libraries.md",
