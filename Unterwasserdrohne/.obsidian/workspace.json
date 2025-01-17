@@ -11,15 +11,14 @@
             "id": "d748dc92f9c0cf68",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "VisualizerMain/VisualizerMain.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "aFile": "Unterwasserdrohne/VisualizerMain/FolderStructure/Root/Code/Code.md",
+                "bFile": "Unterwasserdrohne/VisualizerMain/FolderStructure/Root/Code/Code.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "VisualizerMain"
+              "icon": "diff",
+              "title": "Diff: Code"
             }
           }
         ]
@@ -210,10 +209,10 @@
       }
     ]
   },
-  "active": "aa8303afa2bd0c3f",
+  "active": "d748dc92f9c0cf68",
   "lastOpenFiles": [
-    "Unterwasserdrohne.md",
     "VisualizerMain/VisualizerMain.md",
+    "Unterwasserdrohne.md",
     "VisualizerMain/ClassStructure/_Index_of_ClassStructure.md",
     "VisualizerMain/FolderStructure/Root/Assets/_Index_of_Assets.md",
     "VisualizerMain/FolderStructure/Root/Build/_Index_of_Build.md",
