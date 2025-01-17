@@ -11,7 +11,7 @@
       "query": "path:VisualizerMain/FolderStructure/Root/Code  ",
       "color": {
         "a": 1,
-        "rgb": 37375
+        "rgb": 65280
       }
     },
     {
@@ -74,6 +74,6 @@
   "repelStrength": 11.4968814968815,
   "linkStrength": 1,
   "linkDistance": 116,
-  "scale": 0.47888820525452014,
-  "close": true
+  "scale": 0.2726860817137683,
+  "close": false
 }
