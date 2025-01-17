@@ -1,5 +1,0 @@
-[Communication](Communication/Communication.md)
-[Graphics](Graphics/Graphics.md)
-[Include](Include/Include.md)
-[Lib](Lib/Lib.md)
-[Sound](Sound/Sound.md)
