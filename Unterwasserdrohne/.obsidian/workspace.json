@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d3738307faa837e3",
+        "id": "345907cafd167ffe",
         "type": "tabs",
         "children": [
           {
-            "id": "d748dc92f9c0cf68",
+            "id": "88e25be382b4fbe8",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Unterwasserdrohne/VisualizerMain/FolderStructure/Root/Code/Code.md",
-                "bFile": "Unterwasserdrohne/VisualizerMain/FolderStructure/Root/Code/Code.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Code"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -174,7 +170,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d748dc92f9c0cf68",
+  "active": "38fe85005d335237",
   "lastOpenFiles": [
     "VisualizerMain/VisualizerMain.md",
     "Unterwasserdrohne.md",
