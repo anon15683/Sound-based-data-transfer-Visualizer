@@ -1,6 +1,6 @@
 // dllmain.cpp : Definiert den Einstiegspunkt für die DLL-Anwendung.
-#include "PrecompiledHeader/pch.h"
 #include "framework.h"
+#include "PrecompiledHeader/pch.h"
 
 BOOL APIENTRY DllMain( HMODULE hModule,
                        DWORD  ul_reason_for_call,
