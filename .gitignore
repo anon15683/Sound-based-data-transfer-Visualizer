@@ -42,7 +42,6 @@ Generated\ Files/
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
-[Bb]uild[Ll]og.*
 
 # NUnit
 *.VisualState.xml
@@ -400,6 +399,5 @@ FodyWeavers.xsd
 *.sln.iml
 
 
-# Custom ignores
+#custom ignores
 *.exe
-[Bb]uild/
