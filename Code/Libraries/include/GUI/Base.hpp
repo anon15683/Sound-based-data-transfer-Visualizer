@@ -14,30 +14,30 @@ namespace GUI
 
 	class GUI_API LogBase
 	{
+	public:
+		enum Manipulator
+		{
+			Success,
+			Info,
+			Warning,
+			Error,
+			Default
+		};
+		enum LogLevel
+		{
+			Success,
+			Info,
+			Warning,
+			Error,
+			Default
+		};
 	protected:
 		std::ostream* logger;
-
+		friend std::ostream& operator<< (std::ostream& out, Manipulator level);
 
 	public:
-		typedef void (*Callback)(std::ostream&);
-		Callback success, successEnd;
-		Callback info, infoEnd;
-		Callback warning, warningEnd;
-		Callback error, errorEnd;
-		Callback def, defEnd; //default
 
-		void setLogger(std::ostream& out);
-		void setSuccessCallback(Callback callback);
-		void setSuccessEndCallback(Callback callback);
-		void setInfoCallback(Callback callback);
-		void setInfoEndCallback(Callback callback);
-		void setWarningCallback(Callback callback);
-		void setWarningEndCallback(Callback callback);
-		void setErrorCallback(Callback callback);
-		void setErrorEndCallback(Callback callback);
-		void setDefaultCallback(Callback callback);
-		void setDefaultEndCallback(Callback callback);
-		void setDefaultLogger(); // this is btw cout
+		
 	};
 
 	class GUI_API Drawable
@@ -48,12 +48,19 @@ namespace GUI
 
 	class GUI_API FontRegistry : public LogBase
 	{
+		std::unordered_map<std::string, sf::Font*> fonts;
 	public:
 		enum class Status
 		{
-			FileNotFound,
-			UnknownError
+			Success = 0,
+			FileNotFound = 1,
+			UnknownError = 2
 		};
-		Status registerFont()
+
+		Status registerFont(std::string font, std::string path);
+		Status registerSystemFont(std::string font, std::string path);
+
+		FontRegistry();
+		~FontRegistry();
 	};
 }
