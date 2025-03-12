@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6efe8d4a4ea0bbcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sound-based-data-transfer/VisualizerMain/FolderStructure/Root/Code/Visualizer/Code/Code.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Code"
-            }
-          },
-          {
             "id": "b276500cdecc0199",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sound-based-data-transfer/VisualizerMain/Untitled.md",
+                "file": "Unterwasserdrohne.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Unterwasserdrohne"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,23 +190,24 @@
   },
   "active": "b276500cdecc0199",
   "lastOpenFiles": [
+    "Sound-based-data-transfer/FolderStructure/FolderStructure.md",
+    "Sound-based-data-transfer/Untitled.md",
     "Sound-based-data-transfer/VisualizerMain/VisualizerMain.md",
     "Sound-based-data-transfer/VisualizerMain/Untitled.md",
     "Sound-based-data-transfer/Sound-based-data-transfer.md",
     "Unterwasserdrohne.md",
     "Sound-based-data-transfer/Sound-based-data-transfer 1.md",
     "Sound-based-data-transfer/Unterwasserdrohne.md",
-    "Sound-based-data-transfer/VisualizerMain/FolderStructure/Root/Code/Visualizer/Code/Code.md",
+    "Sound-based-data-transfer/FolderStructure/Root/Code/Visualizer/Code/Code.md",
     "Sound-based-data-transfer",
-    "Sound-based-data-transfer/VisualizerMain/FolderStructure/Root/Code/Libraries/Communication/Serial/Serial.md",
-    "Sound-based-data-transfer/VisualizerMain/FolderStructure/FolderStructure.md",
-    "Sound-based-data-transfer/VisualizerMain/FolderStructure/Root/Code/Code.md",
-    "Sound-based-data-transfer/VisualizerMain/FolderStructure/Root/Documentation/Documentation.md",
-    "Sound-based-data-transfer/VisualizerMain/FolderStructure/Root/Root.md",
-    "Sound-based-data-transfer/VisualizerMain/FolderStructure/Root/Code/Libraries/Graphics/GUI/GUI.md",
-    "Sound-based-data-transfer/VisualizerMain/FolderStructure/Root/Code/Libraries/Graphics/GUI",
-    "Sound-based-data-transfer/VisualizerMain/ClassStructure/ClassStructure.md",
-    "Sound-based-data-transfer/VisualizerMain/FolderStructure/Root/Code/Visualizer/Code/PrecompiledHeader/PrecompiledHeader.md",
+    "Sound-based-data-transfer/FolderStructure/Root/Code/Libraries/Communication/Serial/Serial.md",
+    "Sound-based-data-transfer/FolderStructure/Root/Code/Code.md",
+    "Sound-based-data-transfer/FolderStructure/Root/Documentation/Documentation.md",
+    "Sound-based-data-transfer/FolderStructure/Root/Root.md",
+    "Sound-based-data-transfer/FolderStructure/Root/Code/Libraries/Graphics/GUI/GUI.md",
+    "Sound-based-data-transfer/FolderStructure/Root/Code/Libraries/Graphics/GUI",
+    "Sound-based-data-transfer/ClassStructure/ClassStructure.md",
+    "Sound-based-data-transfer/FolderStructure/Root/Code/Visualizer/Code/PrecompiledHeader/PrecompiledHeader.md",
     "VisualizerMain/ClassStructure/_Index_of_ClassStructure.md",
     "VisualizerMain/FolderStructure/Root/Assets/_Index_of_Assets.md",
     "VisualizerMain/FolderStructure/Root/Build/_Index_of_Build.md",
@@ -242,15 +218,14 @@
     "VisualizerMain/FolderStructure/Root/Code/Libraries/Sound/FFT/_Index_of_FFT.md",
     "VisualizerMain/FolderStructure/Root/Code/LibraryTester/PrecompiledHeader/_Index_of_PrecompiledHeader.md",
     "VisualizerMain/FolderStructure/Root/Code/Visualizer/Code/PrecompiledHeader/_Index_of_PrecompiledHeader.md",
-    "VisualizerMain/FolderStructure/Root/Documentation/_Index_of_Documentation.md",
     "script.ps1",
     "VisualizerMain/script.ps1",
     "VisualizerMain/Unconfirmed 112157.crdownload",
     "Sound-based-data-transfer/VisualizerMain",
-    "Sound-based-data-transfer/VisualizerMain/FolderStructure/Root/Code/Visualizer/Code/PrecompiledHeader",
-    "Sound-based-data-transfer/VisualizerMain/FolderStructure/Root/Code/Visualizer/Code",
-    "Sound-based-data-transfer/VisualizerMain/FolderStructure/Root/Code/LibraryTester/PrecompiledHeader",
-    "Sound-based-data-transfer/VisualizerMain/FolderStructure/Root/Code/Libraries/Sound/FFT",
+    "Sound-based-data-transfer/FolderStructure/Root/Code/Visualizer/Code/PrecompiledHeader",
+    "Sound-based-data-transfer/FolderStructure/Root/Code/Visualizer/Code",
+    "Sound-based-data-transfer/FolderStructure/Root/Code/LibraryTester/PrecompiledHeader",
+    "Sound-based-data-transfer/FolderStructure/Root/Code/Libraries/Sound/FFT",
     "Untitled.canvas"
   ]
 }
