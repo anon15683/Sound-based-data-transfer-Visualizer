@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sound-based-data-transfer/FolderStructure/Root/Code/Libraries/Graphics/GUI/GUI.md",
+                "file": "Sound-based-data-transfer/FolderStructure/Root/Code/Libraries/Graphics/GUI/Code/PreCompiledHeader/GUI.cpp.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GUI"
+              "title": "GUI.cpp"
             }
           }
         ]
@@ -188,8 +188,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a09d8eae85d36aac",
+  "active": "b276500cdecc0199",
   "lastOpenFiles": [
+    "Sound-based-data-transfer/FolderStructure/Root/Code/Libraries/Graphics/GUI/Code/framework.h.md",
+    "Sound-based-data-transfer/FolderStructure/Root/Code/Libraries/Graphics/GUI/Code/PreCompiledHeader/GUI.cpp.md",
+    "Sound-based-data-transfer/FolderStructure/Root/Code/Libraries/Graphics/GUI/Code/dllmain.cpp.md",
+    "Sound-based-data-transfer/FolderStructure/Root/Code/Libraries/Graphics/GUI/Code/Code.md",
+    "Sound-based-data-transfer/FolderStructure/Root/Code/Libraries/Graphics/GUI/Code/Base.cpp.md",
+    "Sound-based-data-transfer/FolderStructure/Root/Code/Libraries/Graphics/GUI/Code/PreCompiledHeader/pch.hpp.md",
+    "Sound-based-data-transfer/FolderStructure/Root/Code/Libraries/Graphics/GUI/Code/PreCompiledHeader/pch.cpp.md",
+    "Sound-based-data-transfer/FolderStructure/Root/Code/Libraries/Graphics/GUI/Code/PreCompiledHeader/PreCompiledHeader.md",
+    "Sound-based-data-transfer/FolderStructure/Root/Code/Libraries/Graphics/GUI/GUI.vcxproj.filter.md",
+    "Sound-based-data-transfer/FolderStructure/Root/Code/Libraries/Graphics/GUI/Code/PreCompiledHeader",
+    "Sound-based-data-transfer/FolderStructure/Root/Code/Libraries/Graphics/GUI/GUI.vcxproj.md",
+    "Sound-based-data-transfer/FolderStructure/Root/Code/Libraries/Graphics/GUI/GUI.sln.md",
+    "Sound-based-data-transfer/FolderStructure/Root/Code/Libraries/Graphics/GUI/GUI.md",
     "Sound-based-data-transfer/FolderStructure/Root/Code/Libraries/Graphics/GUI/Code",
     "Sound-based-data-transfer/FolderStructure/Root/Build/Build.md",
     "Unterwasserdrohne.md",
@@ -206,26 +219,13 @@
     "Sound-based-data-transfer/FolderStructure/Root/Code/Code.md",
     "Sound-based-data-transfer/FolderStructure/Root/Documentation/Documentation.md",
     "Sound-based-data-transfer/FolderStructure/Root/Root.md",
-    "Sound-based-data-transfer/FolderStructure/Root/Code/Libraries/Graphics/GUI/GUI.md",
     "Sound-based-data-transfer/FolderStructure/Root/Code/Libraries/Graphics/GUI",
-    "Sound-based-data-transfer/ClassStructure/ClassStructure.md",
-    "Sound-based-data-transfer/FolderStructure/Root/Code/Visualizer/Code/PrecompiledHeader/PrecompiledHeader.md",
-    "VisualizerMain/ClassStructure/_Index_of_ClassStructure.md",
-    "VisualizerMain/FolderStructure/Root/Assets/_Index_of_Assets.md",
-    "VisualizerMain/FolderStructure/Root/Build/_Index_of_Build.md",
-    "VisualizerMain/FolderStructure/Root/Code/Libraries/Communication/Serial/_Index_of_Serial.md",
-    "VisualizerMain/FolderStructure/Root/Code/Libraries/Graphics/_Index_of_Graphics.md",
-    "VisualizerMain/FolderStructure/Root/Code/Libraries/Include/_Index_of_Include.md",
-    "VisualizerMain/FolderStructure/Root/Code/Libraries/Lib/_Index_of_Lib.md",
-    "VisualizerMain/FolderStructure/Root/Code/Libraries/Sound/FFT/_Index_of_FFT.md",
     "script.ps1",
     "VisualizerMain/script.ps1",
     "VisualizerMain/Unconfirmed 112157.crdownload",
     "Sound-based-data-transfer/VisualizerMain",
     "Sound-based-data-transfer/FolderStructure/Root/Code/Visualizer/Code/PrecompiledHeader",
     "Sound-based-data-transfer/FolderStructure/Root/Code/Visualizer/Code",
-    "Sound-based-data-transfer/FolderStructure/Root/Code/LibraryTester/PrecompiledHeader",
-    "Sound-based-data-transfer/FolderStructure/Root/Code/Libraries/Sound/FFT",
     "Untitled.canvas"
   ]
 }
