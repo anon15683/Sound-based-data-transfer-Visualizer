@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unterwasserdrohne.md",
+                "file": "Sound-based-data-transfer/FolderStructure/Root/Code/Libraries/Graphics/GUI/GUI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Unterwasserdrohne"
+              "title": "GUI"
             }
           }
         ]
@@ -188,14 +188,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b276500cdecc0199",
+  "active": "a09d8eae85d36aac",
   "lastOpenFiles": [
+    "Sound-based-data-transfer/FolderStructure/Root/Code/Libraries/Graphics/GUI/Code",
+    "Sound-based-data-transfer/FolderStructure/Root/Build/Build.md",
+    "Unterwasserdrohne.md",
     "Sound-based-data-transfer/FolderStructure/FolderStructure.md",
     "Sound-based-data-transfer/Untitled.md",
     "Sound-based-data-transfer/VisualizerMain/VisualizerMain.md",
     "Sound-based-data-transfer/VisualizerMain/Untitled.md",
     "Sound-based-data-transfer/Sound-based-data-transfer.md",
-    "Unterwasserdrohne.md",
     "Sound-based-data-transfer/Sound-based-data-transfer 1.md",
     "Sound-based-data-transfer/Unterwasserdrohne.md",
     "Sound-based-data-transfer/FolderStructure/Root/Code/Visualizer/Code/Code.md",
@@ -216,8 +218,6 @@
     "VisualizerMain/FolderStructure/Root/Code/Libraries/Include/_Index_of_Include.md",
     "VisualizerMain/FolderStructure/Root/Code/Libraries/Lib/_Index_of_Lib.md",
     "VisualizerMain/FolderStructure/Root/Code/Libraries/Sound/FFT/_Index_of_FFT.md",
-    "VisualizerMain/FolderStructure/Root/Code/LibraryTester/PrecompiledHeader/_Index_of_PrecompiledHeader.md",
-    "VisualizerMain/FolderStructure/Root/Code/Visualizer/Code/PrecompiledHeader/_Index_of_PrecompiledHeader.md",
     "script.ps1",
     "VisualizerMain/script.ps1",
     "VisualizerMain/Unconfirmed 112157.crdownload",
