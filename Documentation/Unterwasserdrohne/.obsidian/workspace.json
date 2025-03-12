@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unterwasserdrohne.md",
+                "file": "VisualizerMain/FolderStructure/Root/Code/Visualizer/Code/Code.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Unterwasserdrohne"
+              "title": "Code"
             }
           }
         ]
@@ -188,13 +188,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38fe85005d335237",
+  "active": "6efe8d4a4ea0bbcd",
   "lastOpenFiles": [
+    "Unterwasserdrohne.md",
     "VisualizerMain/FolderStructure/Root/Code/Libraries/Communication/Serial/Serial.md",
     "VisualizerMain/FolderStructure/FolderStructure.md",
     "VisualizerMain/VisualizerMain.md",
     "VisualizerMain/FolderStructure/Root/Code/Code.md",
-    "Unterwasserdrohne.md",
     "VisualizerMain/FolderStructure/Root/Documentation/Documentation.md",
     "VisualizerMain/FolderStructure/Root/Root.md",
     "VisualizerMain/FolderStructure/Root/Code/Libraries/Graphics/GUI/GUI.md",
