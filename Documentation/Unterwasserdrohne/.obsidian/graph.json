@@ -1,0 +1,79 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:VisualizerMain/FolderStructure/Root/Code  ",
+      "color": {
+        "a": 1,
+        "rgb": 65280
+      }
+    },
+    {
+      "query": "path:VisualizerMain/FolderStructure/Root/Build  ",
+      "color": {
+        "a": 1,
+        "rgb": 11665172
+      }
+    },
+    {
+      "query": "path:VisualizerMain/FolderStructure/Root/Documentation  ",
+      "color": {
+        "a": 1,
+        "rgb": 16377892
+      }
+    },
+    {
+      "query": "path:VisualizerMain/FolderStructure/Root/Assets  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:FolderStructure/Root  ",
+      "color": {
+        "a": 1,
+        "rgb": 16719647
+      }
+    },
+    {
+      "query": "path:FolderStructure  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:ClassStructure  ",
+      "color": {
+        "a": 1,
+        "rgb": 162080
+      }
+    },
+    {
+      "query": "path:VisualizerMain  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.20530145530146,
+  "lineSizeMultiplier": 2.20363825363825,
+  "collapse-forces": true,
+  "centerStrength": 0.271309771309771,
+  "repelStrength": 11.4968814968815,
+  "linkStrength": 1,
+  "linkDistance": 116,
+  "scale": 0.34157920614734977,
+  "close": true
+}
